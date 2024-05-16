@@ -1,0 +1,26 @@
+const expenseData = [
+  {
+    id: 1,
+    expense: "Mobile Recharge",
+    amount: 199,
+    date: "15/05/2024",
+  },
+  {
+    id: 2,
+    expense: "Petrol Refuiling",
+    amount: 199,
+    date: "15/05/2024",
+  },
+  {
+    id: 3,
+    expense: "Bike Repair",
+    amount: 199,
+    date: "15/05/2024",
+  },
+  {
+    id: 4,
+    expense: "Dinner",
+    amount: 100,
+    date: "15/05/2024",
+  },
+];
